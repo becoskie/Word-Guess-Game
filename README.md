@@ -8,7 +8,11 @@ The keyup function has a hard time with fast typers, it crashed on the word 'yel
 ### Item to work on
 
 Timers
-
 ```
 Timer shold be reuseable. Need to make it so I can pass in an item and a time.
+```
+Condensing
+```
+Had it all working at 68 lines of code, then it went bulk adding functionality.
+There is a better way, just don't know it yet.
 ```
