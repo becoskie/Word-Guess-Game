@@ -16,3 +16,15 @@ Condensing
 Had it all working at 68 lines of code, then it went bulk adding functionality.
 There is a better way, just don't know it yet.
 ```
+## Built With
+
+* [Bootstrap](https://getbootstrap.com/) - The style framework used
+
+## Author
+
+* **Ray Becoskie** - *Initial work* -
+
+## Acknowledgments
+
+* Found some sweet code regarding multiple occurences using the word 'scissors' can't find the person who wrote it now.
+* Ken Nordine
