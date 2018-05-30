@@ -1,6 +1,6 @@
 var items = data;
 var wordsArray = items;
-var isMobile = ('ontouchstart' in document.documentElement && navigator.userAgent.match(/Mobi/));
+// use later var isMobile = ('ontouchstart' in document.documentElement && navigator.userAgent.match(/Mobi/));
 var kenScore = 0;
 var playerScore = 0;
 var letterCont = letterUsed();
