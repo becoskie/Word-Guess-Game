@@ -1,10 +1,10 @@
-# Word-Guess-Game
+# Ken and Ken's Colors
 Game based on hangman.
 
-## Known issues
-When I first read the assignment I saw the part about "getting creative and having fun with it" and then I watched the video and went of to work on it. Now after going over it again, I see we were supposed to use the space bar for game play. 
+## Description
+Random words are generated and the user receives a number of chances to guess the word based on word length, shown by tiles. If the input is correct a tile shows the correct letter, if the guess is wrong it gets removed from the alphabet container, the user's chances are reduced by one and the game wins a point. If the user fails to guess the word, the game wins and goes on to the next question, leaving the word available for another round. If the user guesses correctly, the word is removed from the data, the tiles change color, a song snippet plays and a win is added to the player's score.
 
-I could have controlled everything by one keyup event. #$*&% !!
+![screenshot-1](assets/images/ken_screen.png)
 
 ### Item to work on
 
